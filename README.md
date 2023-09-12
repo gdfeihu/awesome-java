@@ -5,7 +5,7 @@ A curated list of awesome Java frameworks, libraries and software.
 ## Contents
 
 - [Projects](#projects)
-  - [Bean Mapping](#bean-缓冲mapping)
+  - [Bean 缓冲映射](#bean-缓冲)
   - [Build](#build)
   - [Bytecode Manipulation](#bytecode-manipulation)
   - [Caching](#caching)
@@ -84,7 +84,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 ## Projects
 
-### Bean 缓冲Mapping
+### Bean 缓冲
 
 _Frameworks that ease bean mapping._
 
